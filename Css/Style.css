@@ -706,7 +706,7 @@ transition: all 0.5s ease-in;
   justify-content: center;
   align-items: center;
   padding: 0.1rem;
-  background: #fffaba;
+  /* background: #fffaba; */
   
 }
 .container-form{
