@@ -1,6 +1,8 @@
 
 @media(max-width: 460px){
-  *{flex-wrap: wrap;}
+  *{flex-wrap: wrap;
+
+  } 
   .container-form{
    max-width: 100%;
  }
