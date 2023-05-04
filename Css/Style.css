@@ -8,15 +8,16 @@
 }
 html{
   scroll-behavior: smooth;
+  overflow-x: hidden;
 
 }
 body {
   font-family: "Rubik", sans-serif;
   color: #555;
   font-weight: 400;
+
   overflow-x: hidden;
 
-  
 }
 
 .header {
